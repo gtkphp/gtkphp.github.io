@@ -14,6 +14,3 @@ https://gtkphp.github.io/
 
 ## Documentation developper
 https://gtkphp.github.io/
-
-Author: Serge
-
